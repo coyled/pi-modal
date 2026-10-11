@@ -1,0 +1,9 @@
+{
+  "name": "pi-modal",
+  "description": "Pi provider extension: auto-discovered models from Modal shared inference endpoints",
+  "private": true,
+  "license": "0BSD",
+  "pi": {
+    "extensions": ["./index.ts"]
+  }
+}
